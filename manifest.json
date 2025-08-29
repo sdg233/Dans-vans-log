@@ -1,0 +1,13 @@
+
+{
+  "name": "Dan's Van Log",
+  "short_name": "Van Log",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f1220",
+  "theme_color": "#5cc8ff",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
